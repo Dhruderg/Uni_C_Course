@@ -1,0 +1,3 @@
+﻿  Aufgabe.c
+D:\Coding Projects\Visual Studio\Uni_C_Course\Funktionen 2\Aufgabe.c(8,38): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+  Funktionen 2.vcxproj -> D:\Coding Projects\Visual Studio\Uni_C_Course\x64\Debug\Funktionen 2.exe

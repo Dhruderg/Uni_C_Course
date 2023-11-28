@@ -1,0 +1,4 @@
+﻿D:\Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Schleifen 6.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Aufgabe.c
+D:\Visual Studio\Projects\Uni_C_Course\Schleifen 6\Aufgabe.c(21,12): warning C4477: 'printf' : format string '%7d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+  Schleifen 6.vcxproj -> D:\Visual Studio\Projects\Uni_C_Course\x64\Debug\Schleifen 6 and 7.exe
