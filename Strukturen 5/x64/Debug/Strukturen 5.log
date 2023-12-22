@@ -1,0 +1,4 @@
+﻿  Strukturen 5.c
+D:\Coding Projects\Visual Studio\Uni_C_Course\Strukturen 5\Strukturen 5.c(33,11): warning C4133: '=': incompatible types - from 'costumer *' to 'customer *'
+D:\Coding Projects\Visual Studio\Uni_C_Course\Strukturen 5\Strukturen 5.c(20,20): warning C4133: 'initializing': incompatible types - from 'customer *' to 'costumer *'
+  Strukturen 5.vcxproj -> D:\Coding Projects\Visual Studio\Uni_C_Course\x64\Debug\Strukturen 5.exe
