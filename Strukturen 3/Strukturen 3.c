@@ -1,10 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
+#pragma warning(disable : 4996) 
 
 
 int main(int argc, char* argv[]) {
 	/*Declaration*/
-	int sortednums;
+	int sortednums; //Defines how many numbers it should sort
 	int temp;
 	scanf("%d", &sortednums); //Scan Sortednumber
 

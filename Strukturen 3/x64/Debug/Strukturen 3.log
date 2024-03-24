@@ -1,3 +1,2 @@
 ﻿  Strukturen 3.c
-D:\Coding Projects\Visual Studio\Uni_C_Course\Strukturen 3\Strukturen 3.c(9,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\Coding Projects\Visual Studio\Uni_C_Course\Strukturen 3\Strukturen 3.c(14,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Strukturen 3.vcxproj -> D:\Coding Projects\Visual Studio\Uni_C_Course\x64\Debug\Strukturen 3.exe
